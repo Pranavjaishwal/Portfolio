@@ -247,7 +247,7 @@ Let's connect and create something amazing! 🚀
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8 animate-fade-in-delay-1">
               <div className={`project-card ${isDarkMode ? 'bg-gray-700/50' : 'bg-white'} rounded-2xl overflow-hidden shadow-lg backdrop-blur-sm`}>
                 <img 
-                  src="dist\public\Deepfake-Detection-Techniques.jpg"  
+                  src="/Deepfake-Detection-Techniques.jpg"  
                   alt="VerifAI" 
                   className="w-full h-48 object-cover"
                 />
