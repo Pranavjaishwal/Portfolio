@@ -318,7 +318,7 @@ Let's connect and create something amazing! 🚀
                     className={`${isDarkMode ? 'bg-gray-700/50' : 'bg-gray-100'} p-4 rounded-lg hover:bg-blue-500/20 transition-colors`}>
                     <Mail size={24} />
                   </a>
-                  <a href="https://twitter.com/your-twitter" target='_blank'
+                  <a href="https://x.com/Pranavkuma45271" target='_blank'
                     className={`${isDarkMode ? 'bg-gray-700/50' : 'bg-gray-100'} p-4 rounded-lg hover:bg-blue-500/20 transition-colors`}>
                     <Twitter size={24} />
                   </a>
