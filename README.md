@@ -23,14 +23,6 @@ This is my **personal portfolio website** designed to showcase my **skills, proj
 - **Hosting:** Netlify
 - **Animations:** Framer Motion
 
----
-
-## 📂 Project Structure
-- /public         # Static assets (images, favicon, etc.) /br
-  ├── Deepfake-Detection-Techniques...  # (Possibly a research paper or a PDF file)
-
-
----
 
 ## ⚡ Getting Started
 Follow these steps to set up the portfolio locally:
@@ -51,4 +43,11 @@ npm install
 npm run dev
 ```
 **Your portfolio will be available at http://localhost:5173.**
+## 📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+## 📞 Contact
+- Portfolio: pkchoudhary.netlify.app
+- GitHub: Pranavjaishwal
+- LinkedIn: Pranav Kumar
+- Email: thepranavjaishwal@gmail.com
 
