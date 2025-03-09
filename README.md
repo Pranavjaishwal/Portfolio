@@ -43,11 +43,20 @@ npm install
 npm run dev
 ```
 **Your portfolio will be available at http://localhost:5173.**
+
+
+
 ## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
 ## 📞 Contact
-- Portfolio: pkchoudhary.netlify.app
-- GitHub: Pranavjaishwal
-- LinkedIn: Pranav Kumar
-- Email: thepranavjaishwal@gmail.com
+- Portfolio: [pkchoudhary.netlify.app](https://pkchoudhary.netlify.app/)
+- GitHub: [Pranavjaishwal](https://github.com/Pranavjaishwal)
+- LinkedIn: [Pranav Kumar](https://www.linkedin.com/in/pranav-jaishwal/)
+- Email: thepranavjaishwal@gmai
+
+
+
+
+
 
