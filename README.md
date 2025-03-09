@@ -41,10 +41,13 @@ cd Portfolio
 ```
 
 **2️⃣ Install Dependencies**
+```bash
 npm install
+```
 
 **3️⃣ Run the Development Server**
+```bash
 npm run dev
-
+```
 **Your portfolio will be available at http://localhost:5173.**
 
