@@ -258,7 +258,7 @@ Let's connect and create something amazing! 🚀
                     identifying manipulated videos.
                   </p>
                   <div className="flex gap-4">
-                    <a href="https://github.com/Pranavjaishwal"target='_blank' className="text-blue-400 hover:text-blue-300 flex items-center gap-2 transition-colors">
+                    <a href="https://github.com/Pranavjaishwal/Deepfake-detection-using-Deep-Learning-.git"target='_blank' className="text-blue-400 hover:text-blue-300 flex items-center gap-2 transition-colors">
                       <Github size={18} /> View Code
                     </a>
                   </div>
