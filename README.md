@@ -39,5 +39,5 @@ Follow these steps to set up the portfolio locally:
 git clone https://github.com/Pranavjaishwal/Portfolio.git
 cd Portfolio
 
-**2️⃣ Install Dependencies**
+### **1️⃣ Clone the Repository**
 npm install
