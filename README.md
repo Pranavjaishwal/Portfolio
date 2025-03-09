@@ -53,7 +53,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Portfolio: [pkchoudhary.netlify.app](https://pkchoudhary.netlify.app/)
 - GitHub: [Pranavjaishwal](https://github.com/Pranavjaishwal)
 - LinkedIn: [Pranav Kumar](https://www.linkedin.com/in/pranav-jaishwal/)
-- Email: thepranavjaishwal@gmai
+- Email: thepranavjaishwal@gmail.com
 
 
 
