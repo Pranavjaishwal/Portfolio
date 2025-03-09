@@ -1,5 +1,5 @@
 # 🚀 Pranav Kumar - Portfolio
-
+This repository contains the source code for my personal portfolio website.
 ### 🔗 Live Website: [pkchoudhary.netlify.app](https://pkchoudhary.netlify.app/)
 ### 📂 Repository: [GitHub - Portfolio](https://github.com/Pranavjaishwal/Portfolio)
 
@@ -34,10 +34,17 @@ This is my **personal portfolio website** designed to showcase my **skills, proj
 ## ⚡ Getting Started
 Follow these steps to set up the portfolio locally:
 
-### **1️⃣ Clone the Repository**
-```sh
+**1️⃣ Clone the Repository**
+```bash
 git clone https://github.com/Pranavjaishwal/Portfolio.git
 cd Portfolio
+```
 
-### **1️⃣ Clone the Repository**
+**2️⃣ Install Dependencies**
 npm install
+
+**3️⃣ Run the Development Server**
+npm run dev
+
+**Your portfolio will be available at http://localhost:5173.**
+
