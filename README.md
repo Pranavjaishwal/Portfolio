@@ -26,7 +26,8 @@ This is my **personal portfolio website** designed to showcase my **skills, proj
 ---
 
 ## 📂 Project Structure
-
+/public         # Static assets (images, favicon, etc.)
+  ├── Deepfake-Detection-Techniques...  # (Possibly a research paper or a PDF file)
 
 
 ---
