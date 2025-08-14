@@ -66,7 +66,7 @@ function App() {
                 className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-lg font-semibold transition-all hover:shadow-lg hover:shadow-blue-500/20">
                 Get in Touch
               </a>
-              <a href="https://drive.google.com/file/d/1qLWXPlw-nV168Egq5IftZFSn2fIox0tG/view?usp=sharing " target='_blank' 
+              <a href="https://drive.google.com/file/d/1hO7k5K_XDLetOOdfAeRInIq-ny4xThom/view?usp=sharing " target='_blank' 
                 className="border border-gray-300 dark:border-white/20 hover:border-blue-500 px-8 py-4 rounded-lg font-semibold transition-all hover:bg-blue-500/10 flex items-center gap-2">
                 <Download size={20} />
                 Download CV
